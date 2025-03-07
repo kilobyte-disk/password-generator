@@ -1,0 +1,3 @@
+# Ignore the contents of the build directory, except for the directory itself.
+build/*
+!build/.gitkeep
